@@ -1,5 +1,5 @@
 {
-  "name": "vishu-chat-app",
+  "name": "chat-app",
   "version": "1.0.0",
   "description": "",
   "main": "api/index.js",
